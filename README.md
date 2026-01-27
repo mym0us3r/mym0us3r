@@ -2,7 +2,7 @@
 
 > **"THERE IS NO ANONYMITY ON THE ATTACK SURFACE, ONLY DELAYS!"**
 
-Security Researcher & Developer focused on Blue Team Automation, Threat Intelligence, Threat Hunting, Adversary Simulation, EASM, and SOC Automation.
+Threat Detection and Researcher, focused on Blue Team Ops, Threat Intelligence, Threat Hunting, Adversary Simulation, EASM, and SOC Automation.
 
 ---
 
