@@ -2,7 +2,7 @@
 
 > **"THERE IS NO ANONYMITY ON THE ATTACK SURFACE, ONLY DELAYS!"**
 
-Senior Threat Detection and Research, focused on Blue Team Ops, Threat Intelligence, Threat Hunting, Adversary Simulation, EASM, and SOC Automation.
+Senior Threat Detection & Research, focused on Blue Team Ops, Threat Intelligence, Threat Hunting, Adversary Simulation, EASM, and SOC Automation.
 
 ---
 
