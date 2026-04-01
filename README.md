@@ -19,4 +19,4 @@ Senior Threat Detection & Research, focused on Blue Team Ops, Threat Intelligenc
 ---
 
 ### 📝 Latest Article
-[Habilitando e Monitorando a Auditoria de Criação de Processo com Wazuh — EventID 4688 (Command Line)](https://medium.com/@k1sh/habilitando-e-monitorando-a-auditoria-de-cria%C3%A7%C3%A3o-de-processo-com-wazuh-eventid-4688-com-o-7893524baff5)
+[Wazuh, Zeek and Pi-hole DNS Sinkhole on Repurposed Hardware (TV Box)](https://m0us3r.medium.com/wazuh-zeek-and-pi-hole-dns-sinkhole-on-repurposed-hardware-tv-box-d6ea39bfdeb3)
