@@ -19,4 +19,5 @@ Senior Threat Detection & Research, focused on Blue Team Ops, Threat Intelligenc
 ---
 
 ### 📝 Latest Article
-[Wazuh, Zeek and Pi-hole DNS Sinkhole on Repurposed Hardware (TV Box)](https://m0us3r.medium.com/wazuh-zeek-and-pi-hole-dns-sinkhole-on-repurposed-hardware-tv-box-d6ea39bfdeb3)
+[Detecting CVE-2026-31431 - (Copy Fail) with Wazuh 4.14.4
+](https://www.linkedin.com/feed/update/urn:li:activity:7457106732759293953/)
