@@ -48,8 +48,13 @@ Tech Stack:
 ---
 
 GitHub Stats:
+
+<div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=mym0us3r&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mym0us3r&theme=tokyonight)
+
+</div>
 
 ---
 
