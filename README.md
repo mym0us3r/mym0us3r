@@ -57,9 +57,3 @@ Latest Article:
 [Migrating to Native Sysmon on Windows 11 24H2+ and Windows Server 2025 with Wazuh](https://www.linkedin.com/feed/update/urn:li:activity:7485302791461036033/)
 
 ---
-
-<div align="center">
-
-Open to connecting with fellow Blue Team practitioners.
-
-</div>
