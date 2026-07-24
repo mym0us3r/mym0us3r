@@ -50,10 +50,3 @@ GitHub Stats:
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mym0us3r&theme=tokyonight)
 
 </div>
-
----
-
-Latest Article:
-[Migrating to Native Sysmon on Windows 11 24H2+ and Windows Server 2025 with Wazuh](https://www.linkedin.com/feed/update/urn:li:activity:7485302791461036033/)
-
----
