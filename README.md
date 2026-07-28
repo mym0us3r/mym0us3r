@@ -8,21 +8,24 @@
 
 </div>
 
----
+> whoami
 
-{ whoami }
+I build and break detection pipelines for a living :)
 
-I build and break detection pipelines for a living. My work sits at the intersection of Detection Engineering, Threat Hunting, DFIR, and SIEM/XDR architecture - writing the rules that catch the things generic configs miss, then trying to defeat them myself before someone else does. Wazuh Ambassador, contributing production-tested rulesets, adversarial simulation reports, and native Windows telemetry research to the community. I also run a personal honeypot/SOC lab on Splunk - building dashboards, SPL queries, and alerting from live attack traffic (geo-mapped attacker origins, service/port interaction analysis, user-agent fingerprinting) to keep detection instincts sharp outside of production work. When things go wrong despite it all, Incident Response is where I close the loop.
+My work focuses on Detection Engineering, Threat Hunting, Digital Forensics & Incident Response (DFIR), and SIEM/XDR architecture, developing behavioral detections from Windows and Linux telemetry, including Sysmon, Windows Security Events, PowerShell, ETW, Linux Audit, and Syslog. I validate detections through adversary simulation and map detection coverage to frameworks such as MITRE ATT&CK and NIST.
 
----
+As a Wazuh Ambassador, I contribute production-tested rulesets, adversarial simulation research, and native telemetry projects that help strengthen detection capabilities across the community. Outside production, I maintain a personal SOC and honeypot lab powered by Splunk, where I build dashboards, develop SPL analytics, and investigate live attack traffic through geolocation, service interaction analysis, user-agent fingerprinting, and detection validation. The goal is simple: continuously transform real-world telemetry into better detections.
 
-{ Focus } 
-
-Blue Team Operations · Threat Intelligence · Threat Hunting · Adversary Simulation/Emulation · Honeypot Research · DFIR · Incident Response · External Attack Surface Management (EASM) · SOC Automation · Detection Engineering · Wazuh SIEM/XDR and Splunk Enterprise
+When prevention and detection aren't enough, Incident Response is where I close the loop. Turning every investigation into insights that improve future detections.
 
 ---
 
-{ Stack } 
+<p align="center">
+  
+<sub>
+Blue Team Operations · Threat Intelligence · Threat Hunting · Adversary Simulation/Emulation · Honeypot Research · DFIR · Incident Response · External Attack Surface Management (EASM) · SOC Automation · Detection Engineering · Wazuh SIEM/XDR · Splunk Enterprise
+</sub>
+</p>
 
 <div align="center">
   
