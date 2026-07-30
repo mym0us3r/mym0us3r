@@ -1,6 +1,6 @@
 <div align="center">
 
-I'm m0us3r - Senior Security Engineer
+I'm m0us3r - A cybersecurity engineering enthusiast
 
 [![](https://img.shields.io/badge/-Wazuh_Ambassador-3AB6E3?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com)
 [![](https://img.shields.io/badge/-MITRE_ATT%26CK-D7263D?style=flat-square)](https://attack.mitre.org)
@@ -58,14 +58,6 @@ DFIR · Incident Response · EASM · SOC Automation · Detection Engineering · 
 <br/>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mym0us3r&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=prs&bg_color=0D1117&title_color=00A9E0&icon_color=00A9E0&text_color=C9D1D9" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mym0us3r&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=00A9E0&text_color=C9D1D9" height="170" />
-
-</div>
 
 <br/>
 
