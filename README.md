@@ -40,17 +40,18 @@ DFIR · Incident Response · EASM · SOC Automation · Detection Engineering · 
 
 <div align="center">
 
-![Wazuh](https://img.shields.io/badge/Wazuh-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-3AB6E3?style=for-the-badge&logo=wazuh&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-D7263D?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-4B0082?style=for-the-badge)
-![Yara](https://img.shields.io/badge/YARA-6E4A2E?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Wazuh](https://img.shields.io/badge/Wazuh-0078D6?style=flat&logo=windows&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-3AB6E3?style=flat&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-D7263D?style=flat)
+![Sigma](https://img.shields.io/badge/Sigma-4B0082?style=flat)
+![Yara](https://img.shields.io/badge/YARA-6E4A2E?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </div>
 
@@ -60,9 +61,9 @@ DFIR · Incident Response · EASM · SOC Automation · Detection Engineering · 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mym0us3r&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=prs&bg_color=0D1117&title_color=00A9E0&icon_color=00A9E0&text_color=C9D1D9" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mym0us3r&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=00A9E0&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api?username=mym0us3r&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=prs&bg_color=0D1117&title_color=00A9E0&icon_color=00A9E0&text_color=C9D1D9" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mym0us3r&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=00A9E0&text_color=C9D1D9" height="170" />
 
 </div>
 
@@ -79,3 +80,7 @@ DFIR · Incident Response · EASM · SOC Automation · Detection Engineering · 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=mym0us3r&theme=transparent&hide_border=true&ring=00A9E0&fire=D7263D&currStreakLabel=00A9E0&dates=6B7280&sideLabels=00A9E0&sideNums=C9D1D9&currStreakNum=FFFFFF" />
 </div>
+
+</div>
+
+<br/>
