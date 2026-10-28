@@ -21,7 +21,7 @@ I'm m0us3r - A cybersecurity engineering enthusiast
 
 My work focuses on **Detection Engineering**, **Threat Hunting**, **DFIR**, and **SIEM/XDR architecture** - developing behavioral detections from Windows and Linux telemetry, including Sysmon, Windows Security Events, PowerShell, ETW, Linux Audit, and Syslog. I validate detections through adversary simulation and map detection coverage to **MITRE ATT&CK** and **NIST**.
 
-As a **Wazuh Ambassador** and **Splunk researcher**, I contribute production-tested rulesets, adversarial simulation research, and native telemetry projects that strengthen detection capabilities across the community. I maintain a personal security research lab where I run an active honeypot powered by Splunk - building dashboards, SPL analytics, and investigating live attack traffic through geolocation, service interaction analysis, user-agent fingerprinting, and detection validation.
+As a **Wazuh Ambassador** and **Splunk researcher**, I contribute production-tested rulesets, adversarial simulation research, and native telemetry projects that strengthen detection capabilities across the community. I maintain a personal security research lab where I run an active honeypot powered by Wazuh and Splunk - building dashboards, analytics, and investigating live attack traffic through geolocation, service interaction analysis, user-agent fingerprinting, and detection validation.
 
 When prevention and detection aren't enough, **Incident Response** is where I close the loop - turning every investigation into insights that improve future detections.
 
